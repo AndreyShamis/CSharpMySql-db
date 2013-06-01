@@ -2,3 +2,5 @@
 /CSharpMySqlSample/bin
 /CSharpMySqlSample/obj
 /*.suo
+/*.dropbox
+/desktop.ini
